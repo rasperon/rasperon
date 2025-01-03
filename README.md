@@ -24,6 +24,26 @@ I am  🕸️ Cyber Security student and 🚀 Amateur entrepreneur
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@siberkalp)
 
 
+---
+
+### 🏆 My Top Projects  
+
+<p align="center">
+  <!-- Project 1 -->
+  <a href="https://github.com/rasperon/schogolar" target="_blank">
+    <img src="https://github.com/rasperon/schogolar/blob/main/assets/go.jpeg?raw=true" alt="Schogolar Project"/>
+  </a>
+
+  # Schogolar
+    🌐 A platform that simplifies academic research for students and researchers using AI.  
+    🔧 **Tech Stack:** React, TypeScript, RasperonAPI  
+    🚀 [Live Demo](https://schogolar.vercel.app/) | [Repository](https://github.com/rasperon/schogolar)  
+  </p>
+  
+  <br>
+
+---
+
 
 #### 📜 Github stats:
 
