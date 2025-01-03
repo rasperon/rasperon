@@ -34,8 +34,9 @@ I am  🕸️ Cyber Security student and 🚀 Amateur entrepreneur
     <img src="https://github.com/rasperon/schogolar/blob/main/assets/go.jpeg?raw=true" alt="Schogolar Project"/>
   </a>
   </p>
+  
   # Schogolar
-    
+ 
     🌐 A platform that simplifies academic research for students and researchers using AI.  
     🔧 **Tech Stack:** React, TypeScript, RasperonAPI  
     🚀 [Live Demo](https://schogolar.vercel.app/) | [Repository](https://github.com/rasperon/schogolar)  
