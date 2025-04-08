@@ -21,16 +21,16 @@ I am 🕸️ Cyber Security student and 🚀 Amateur entrepreneur
 ### 🏆 My Top Projects  
 
 <p align="center">
-  <a href="https://github.com/rasperon/schogolar" target="_blank">
-    <img src="https://github.com/rasperon/schogolar/blob/main/assets/go.jpeg?raw=true" alt="Schogolar Project"/>
+  <a href="https://github.com/rasperon/genreact" target="_blank">
+    <img src="https://raw.githubusercontent.com/rasperon/genreact/main/public/logo.png" alt="Genreact"/>
   </a>
 </p>
 
-# Schogolar
+# Genreact
 
-🌐 A platform that simplifies academic research for students and researchers using AI.  
-🔧 **Tech Stack:** React, TypeScript, RasperonAPI  
-🚀 [Live Demo](https://schogolar.vercel.app/) | [Repository](https://github.com/rasperon/schogolar)
+🌐  Your AI-Powered React Component Generator — Built for speed, control, and flexibility. Powered by GENCREATE API and prompt chaining. Generate clean, production-ready components directly from CLI.  
+🔧 **Tech Stack:** React, JavaScript, GenCreateAPI  
+🚀 [Live Demo](https://www.npmjs.com/package/genreactai) | [Repository](https://github.com/rasperon/genreact)
 
 <br>
 
